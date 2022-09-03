@@ -5,7 +5,7 @@
    * [udagram-api-feed](https://github.com/Elvis020/udagram-api-feed)
    * [udagram-api-user](https://github.com/Elvis020/udagram-api-user)
    * [udagram-frontend](https://github.com/Elvis020/udagram-frontend)
-   * [udagram-reverseproxy](https://github.com/Elvis020/udagram-reverseproxy)
+   * [udagram-reverseproxy](https://github.com/Elvis020/reverseproxy)
 
 
 ## Rubrics of project
