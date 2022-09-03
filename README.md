@@ -2,10 +2,10 @@
  This repository contains the files used to complete the project 3 of the Udacity Cloud Developer NanoDegree programme
 
  #### You can find the individual repositories with their CI pipelines at:
-    [udagram-api-feed repository](https://github.com/Elvis020/udagram-api-feed)
-    [udagram-api-user repository](https://github.com/Elvis020/udagram-api-user)
-    [udagram-frontend repository](https://github.com/Elvis020/udagram-frontend)
-    [udagram-reverseproxy repository](https://github.com/Elvis020/udagram-reverseproxy)
+   * [udagram-api-feed](https://github.com/Elvis020/udagram-api-feed)
+   * [udagram-api-user](https://github.com/Elvis020/udagram-api-user)
+   * [udagram-frontend](https://github.com/Elvis020/udagram-frontend)
+   * [udagram-reverseproxy](https://github.com/Elvis020/udagram-reverseproxy)
 
 
 ## Rubrics of project
