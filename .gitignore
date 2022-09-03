@@ -16,3 +16,7 @@ udagram-frontend/set_env*
 udagram-reverseproxy/node_modules
 udagram-reverseproxy/env-*
 udagram-reverseproxy/set_env*
+
+
+aws-*
+env-*
